@@ -12,5 +12,6 @@
 - if you need to ask any question you can contact me.<br>
 </p>
 
-<h4>Screenshot</h4>
-![screenshot](https://raw.githubusercontent.com/mohamedale/youtube-simple-downloader/main/result-screenshot.png)
+<h3>Screenshot</h3>
+
+![screenshot](result-screenshot.png)
